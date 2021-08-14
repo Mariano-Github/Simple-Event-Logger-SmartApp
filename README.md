@@ -5,7 +5,7 @@ Author of this Smartapp: Kevin LaFramboise (krlaframboise)
 
 NOTE
 
-Kevin LaFramboise (krlaframboise) says yo me:
+Kevin LaFramboise (krlaframboise) says to me:
 I don’t have time to review and test your version so I won’t be adding it to the SmartApp.
 
 I’m sure there are others that are interested in the changes you made, but I’d rather not have 2 instances of the SmartApp linked to on this topic so I’d appreciate it if you could PM the code/link to any users that request it.

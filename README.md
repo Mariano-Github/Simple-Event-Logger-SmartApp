@@ -1,7 +1,8 @@
 # Simple Event Logger SmartApp
 SmartApp Simple Event Logger version 1.6:
 
-NOTE:
+NOTE
+
 Kevin LaFramboise (krlaframboise) author of this smartapp says:
 I don’t have time to review and test your version so I won’t be adding it to the SmartApp.
 

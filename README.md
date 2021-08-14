@@ -1,4 +1,4 @@
-# Privado
+#Simple Event Logger SmartApp
 SmartApp Simple Event Logger version 1.6:
 
 NOTE:
